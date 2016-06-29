@@ -9,7 +9,9 @@
       border-style: solid;
 
       li {
-      	color: blue;
+      	color: red;
+      	font-family: 'Arial';
+
       }
        }
 
